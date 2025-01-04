@@ -22,7 +22,7 @@ else
     echo "The element with atomic number $ATOMIC_NUMBER is $NAME ($SYMBOL). It's a nonmetal, with a mass of $MASS amu. $NAME has a melting point of $MELTING celsius and a boiling point of $BOILING celsius."
   fi
 fi
-
+ 
 
 #git commit -m "fix: corrected atomic_mass values"
 #git commit -m "feat: added type_id foreign key"
